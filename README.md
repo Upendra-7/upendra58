@@ -12,9 +12,9 @@ Industry      : Lifestyle
 
 Project Title : FOOD HOUSE
 
-Problem Statement/Opportunity : Good  hairstyle and appearance Is needed for evrey person.
+Problem Statement/Opportunity : Food House website is very useful for the bachelor's and all items of delivery is available with low cost.
 
-Project Description           :  Best Saloon  Will give the neat  appearance.
+Project Description           :  Food House website maintains healtbot services for free to everyone and easy to use and special offers also available.
 
 Primary Azure Technology      :  Static Web Apps, Azure Health Bot.
 
